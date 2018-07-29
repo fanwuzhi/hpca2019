@@ -87,6 +87,17 @@ D.~Anderson, ``Design and implementation of an instruction set architecture and
   an instruction execution unit for the rez9 coprocessor system,'' \emph{M.S.
   Thesis, U of Nevada LV}, 2014.
 
+\bibitem{RNSDivisionMansoureh}
+M.~Labafniya and M.~Eshghi, ``Non-iterative rns division algorithm,'' 2012.
+
+\bibitem{RNSDivisionTalahmeh}
+\BIBentryALTinterwordspacing
+S.~Talahmeh and P.~Siy, ``Arithmetic division in rns using galois field
+  gf(p),'' \emph{Computers and Mathematics with Applications}, vol.~39, no.~5,
+  pp. 227 -- 238, 2000. [Online]. Available:
+  \url{http://www.sciencedirect.com/science/article/pii/S0898122100000560}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Hastings}
 C.~W. Hastings, ``Automatic detection and correction of errors in digital
   computers using residue arithmetic,'' in \emph{Region Six Annu. Conf.}\hskip
@@ -342,61 +353,6 @@ N.~S. Szabo and R.~I. Tanaka, \emph{Residue arithmetic and its applications to
   computer technology}.\hskip 1em plus 0.5em minus 0.4em\relax McGraw-Hill,
   1967.
 
-\bibitem{RESO}
-J.~H. Patel and L.~Y. Fung, ``Concurrent error detection in alu's by
-  recomputing with shifted operands,'' \emph{IEEE Trans. Computers}, vol.~31,
-  no.~7, pp. 589--595, 1982.
-
-\bibitem{REDWC}
-B.~W. Johnson, J.~H. Aylor, and H.~H. Hana, ``Efficient use of time and
-  hardware redundancy for concurrent error detection in a 32-bit vlsi adder,''
-  \emph{journal of solid-state circuits}, vol.~23, no.~1, pp. 208--215, 1988.
-
-\bibitem{RETWV}
-Y.-M. Hsu and E.~Swartzlander, ``Time redundant error correcting adders and
-  multipliers,'' in \emph{Defect and Fault Tolerance in VLSI Systems,
-  Proceedings., International Workshop on}.\hskip 1em plus 0.5em minus
-  0.4em\relax IEEE, 1992, pp. 247--256.
-
-\bibitem{SCCSA}
-D.~P. Vasudevan, P.~K. Lala, and J.~P. Parkerson, ``Self-checking carry-select
-  adder design based on two-rail encoding,'' \emph{IEEE Transactions on
-  Circuits and Systems I: Regular Papers}, vol.~54, no.~12, pp. 2696--2705,
-  2007.
-
-\bibitem{SHA}
-S.~Peng and R.~Manohar, ``Fault tolerant asynchronous adder through dynamic
-  self-reconfiguration,'' in \emph{Computer Design: VLSI in Computers and
-  Processors, ICCD. Proceedings.International Conference on}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2005, pp. 171--178.
-
-\bibitem{DIVA}
-T.~M. Austin, ``Diva: A reliable substrate for deep submicron microarchitecture
-  design,'' in \emph{Microarchitecture, MICRO-32. Proceedings. 32nd Annual
-  International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
-  1999, pp. 196--207.
-
-\bibitem{SITR}
-E.~Mizan, T.~Amimeur, and M.~F. Jacome, ``Self-imposed temporal redundancy: An
-  efficient technique to enhance the reliability of pipelined functional
-  units,'' in \emph{Computer Architecture and High Performance Computing,
-  SBAC-PAD. 19th International Symposium on}.\hskip 1em plus 0.5em minus
-  0.4em\relax IEEE, 2007, pp. 45--53.
-
-\bibitem{razor_2003}
-D.~Ernst, N.~S. Kim, S.~Das, S.~Pant, R.~Rao, T.~Pham, C.~Ziesler, D.~Blaauw,
-  T.~Austin, K.~Flautner \emph{et~al.}, ``Razor: A low-power pipeline based on
-  circuit-level timing speculation,'' in \emph{Microarchitecture,MICRO-36.
-  Proceedings. 36th Annual IEEE/ACM International Symposium on}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2003, pp. 7--18.
-
-\bibitem{decor_2008}
-M.~S. Gupta, K.~K. Rangan, M.~D. Smith, G.-Y. Wei, and D.~Brooks, ``Decor: A
-  delayed commit and rollback mechanism for handling inductive noise in
-  processors,'' in \emph{High Performance Computer Architecture, HPCA, IEEE
-  14th International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax
-  IEEE, 2008, pp. 381--392.
-
 \bibitem{brown1960error}
 D.~T. Brown, ``Error detecting and correcting binary codes for arithmetic
   operations,'' \emph{IRE Transactions on Electronic Computers}, no.~3, pp.
@@ -533,6 +489,26 @@ M.~Valinataj and S.~Safari, ``Fault tolerant arithmetic operations with
   Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2007, pp.
   188--196.
 
+\bibitem{razor_2003}
+D.~Ernst, N.~S. Kim, S.~Das, S.~Pant, R.~Rao, T.~Pham, C.~Ziesler, D.~Blaauw,
+  T.~Austin, K.~Flautner \emph{et~al.}, ``Razor: A low-power pipeline based on
+  circuit-level timing speculation,'' in \emph{Microarchitecture,MICRO-36.
+  Proceedings. 36th Annual IEEE/ACM International Symposium on}.\hskip 1em plus
+  0.5em minus 0.4em\relax IEEE, 2003, pp. 7--18.
+
+\bibitem{decor_2008}
+M.~S. Gupta, K.~K. Rangan, M.~D. Smith, G.-Y. Wei, and D.~Brooks, ``Decor: A
+  delayed commit and rollback mechanism for handling inductive noise in
+  processors,'' in \emph{High Performance Computer Architecture, HPCA, IEEE
+  14th International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2008, pp. 381--392.
+
+\bibitem{DIVA}
+T.~M. Austin, ``Diva: A reliable substrate for deep submicron microarchitecture
+  design,'' in \emph{Microarchitecture, MICRO-32. Proceedings. 32nd Annual
+  International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  1999, pp. 196--207.
+
 \bibitem{ibmpower8}
 IBM, ``Ibm power system e880 server, an ibm power8 technology-based system,
   addresses the requirements of an industry-leading enterprise class system,''
@@ -542,5 +518,40 @@ IBM, ``Ibm power system e880 server, an ibm power8 technology-based system,
 S.~Srikanth, B.~Deng, and T.~M. Conte, ``A brief survey of non-residue based
   computational error correction,'' \emph{arXiv preprint arXiv:1611.03099},
   2016.
+
+\bibitem{RESO}
+J.~H. Patel and L.~Y. Fung, ``Concurrent error detection in alu's by
+  recomputing with shifted operands,'' \emph{IEEE Trans. Computers}, vol.~31,
+  no.~7, pp. 589--595, 1982.
+
+\bibitem{REDWC}
+B.~W. Johnson, J.~H. Aylor, and H.~H. Hana, ``Efficient use of time and
+  hardware redundancy for concurrent error detection in a 32-bit vlsi adder,''
+  \emph{journal of solid-state circuits}, vol.~23, no.~1, pp. 208--215, 1988.
+
+\bibitem{RETWV}
+Y.-M. Hsu and E.~Swartzlander, ``Time redundant error correcting adders and
+  multipliers,'' in \emph{Defect and Fault Tolerance in VLSI Systems,
+  Proceedings., International Workshop on}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 1992, pp. 247--256.
+
+\bibitem{SCCSA}
+D.~P. Vasudevan, P.~K. Lala, and J.~P. Parkerson, ``Self-checking carry-select
+  adder design based on two-rail encoding,'' \emph{IEEE Transactions on
+  Circuits and Systems I: Regular Papers}, vol.~54, no.~12, pp. 2696--2705,
+  2007.
+
+\bibitem{SHA}
+S.~Peng and R.~Manohar, ``Fault tolerant asynchronous adder through dynamic
+  self-reconfiguration,'' in \emph{Computer Design: VLSI in Computers and
+  Processors, ICCD. Proceedings.International Conference on}.\hskip 1em plus
+  0.5em minus 0.4em\relax IEEE, 2005, pp. 171--178.
+
+\bibitem{SITR}
+E.~Mizan, T.~Amimeur, and M.~F. Jacome, ``Self-imposed temporal redundancy: An
+  efficient technique to enhance the reliability of pipelined functional
+  units,'' in \emph{Computer Architecture and High Performance Computing,
+  SBAC-PAD. 19th International Symposium on}.\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, 2007, pp. 45--53.
 
 \end{thebibliography}

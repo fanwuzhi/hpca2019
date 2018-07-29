@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  26 JUL 2018 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 JUL 2018 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -616,28 +616,25 @@ LaTeX Warning: No \author given.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-<graphics/SECorDED.pdf, id=167, 788.9475pt x 352.31625pt>
+<graphics/SECorDED.pdf, id=164, 788.9475pt x 352.31625pt>
 File: graphics/SECorDED.pdf Graphic file (type pdf)
 
 <use graphics/SECorDED.pdf>
-Package pdftex.def Info: graphics/SECorDED.pdf used on input line 185.
+Package pdftex.def Info: graphics/SECorDED.pdf used on input line 182.
 (pdftex.def)             Requested size: 252.94499pt x 112.95316pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 185--186
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 182--183
  [][] 
  []
 
 [3 <./graphics/SECorDED.pdf>]
-<graphics/41architecture.pdf, id=222, 388.45125pt x 224.84pt>
+<graphics/41architecture.pdf, id=218, 388.45125pt x 224.84pt>
 File: graphics/41architecture.pdf Graphic file (type pdf)
 
 <use graphics/41architecture.pdf>
-Package pdftex.def Info: graphics/41architecture.pdf used on input line 225.
+Package pdftex.def Info: graphics/41architecture.pdf used on input line 222.
 (pdftex.def)             Requested size: 220.4237pt x 127.58719pt.
-LaTeX Font Info:    Try loading font information for T1+aess on input line 225.
+LaTeX Font Info:    Try loading font information for T1+aess on input line 222.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/ae/t1aess.fd
@@ -648,135 +645,143 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-<graphics/42architecture.pdf, id=223, 445.665pt x 222.8325pt>
+<graphics/42architecture.pdf, id=219, 445.665pt x 222.8325pt>
 File: graphics/42architecture.pdf Graphic file (type pdf)
 
 <use graphics/42architecture.pdf>
-Package pdftex.def Info: graphics/42architecture.pdf used on input line 228.
+Package pdftex.def Info: graphics/42architecture.pdf used on input line 225.
 (pdftex.def)             Requested size: 252.94499pt x 126.47182pt.
 
-<graphics/chpt_overview.pdf, id=232, 676.5275pt x 120.45pt>
+
+LaTeX Warning: Reference `Chptschemes' on page 4 undefined on input line 230.
+
+<graphics/chpt_overview.pdf, id=227, 676.5275pt x 120.45pt>
 File: graphics/chpt_overview.pdf Graphic file (type pdf)
 
 <use graphics/chpt_overview.pdf>
-Package pdftex.def Info: graphics/chpt_overview.pdf used on input line 302.
+Package pdftex.def Info: graphics/chpt_overview.pdf used on input line 299.
 (pdftex.def)             Requested size: 252.94499pt x 45.03445pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 302--303
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 299--300
  [][] 
  []
 
-<graphics/chpt_flowchart.pdf, id=233, 558.085pt x 301.125pt>
+[4] <graphics/chpt_flowchart.pdf, id=241, 558.085pt x 301.125pt>
 File: graphics/chpt_flowchart.pdf Graphic file (type pdf)
 
 <use graphics/chpt_flowchart.pdf>
-Package pdftex.def Info: graphics/chpt_flowchart.pdf used on input line 310.
+Package pdftex.def Info: graphics/chpt_flowchart.pdf used on input line 307.
 (pdftex.def)             Requested size: 252.94499pt x 136.47908pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 310--311
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 307--308
  [][] 
  []
 
 
-Underfull \vbox (badness 2426) has occurred while \output is active []
+LaTeX Warning: Reference `Inc_chpt' on page 5 undefined on input line 314.
 
- [4 <./graphics/chpt_overview.pdf>]
 
-LaTeX Warning: Reference `' on page 5 undefined on input line 316.
+LaTeX Warning: Reference `' on page 5 undefined on input line 314.
 
-[5 <./graphics/41architecture.pdf> <./graphics/42architecture.pdf> <./graphics/
-chpt_flowchart.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 325--325
-[]\secfnt CHECKPOINT AND ROLL-BACK
+
+Underfull \hbox (badness 1199) in paragraph at lines 313--315
+[]\T1/aer/m/n/10 (+20) Figure []3[] gives the overview about how RRNS
  []
 
-
-Underfull \vbox (badness 4279) has occurred while \output is active []
+[5 <./graphics/41architecture.pdf> <./graphics/42architecture.pdf> <./graphics/
+chpt_overview.pdf> <./graphics/chpt_flowchart.pdf>]
+Underfull \vbox (badness 1038) has occurred while \output is active []
 
  [6]
-<graphics/adaptive2.pdf, id=341, 764.8575pt x 171.64125pt>
+<graphics/adaptive2.pdf, id=337, 764.8575pt x 171.64125pt>
 File: graphics/adaptive2.pdf Graphic file (type pdf)
 
 <use graphics/adaptive2.pdf>
-Package pdftex.def Info: graphics/adaptive2.pdf used on input line 389.
+Package pdftex.def Info: graphics/adaptive2.pdf used on input line 382.
 (pdftex.def)             Requested size: 238.49121pt x 53.51988pt.
 
-<graphics/adaptive21.pdf, id=342, 767.86874pt x 171.64125pt>
+<graphics/adaptive21.pdf, id=338, 767.86874pt x 171.64125pt>
 File: graphics/adaptive21.pdf Graphic file (type pdf)
 
 <use graphics/adaptive21.pdf>
-Package pdftex.def Info: graphics/adaptive21.pdf used on input line 392.
+Package pdftex.def Info: graphics/adaptive21.pdf used on input line 385.
 (pdftex.def)             Requested size: 238.49121pt x 53.30775pt.
  [7]
-<graphics/SignalE.pdf, id=355, 526.96875pt x 294.09875pt>
+<graphics/SignalE.pdf, id=351, 526.96875pt x 294.09875pt>
 File: graphics/SignalE.pdf Graphic file (type pdf)
 
 <use graphics/SignalE.pdf>
-Package pdftex.def Info: graphics/SignalE.pdf used on input line 524.
+Package pdftex.def Info: graphics/SignalE.pdf used on input line 517.
 (pdftex.def)             Requested size: 166.2212pt x 92.76724pt.
 
-<graphics/SignalE1.pdf, id=356, 525.965pt x 294.09875pt>
+<graphics/SignalE1.pdf, id=352, 525.965pt x 294.09875pt>
 File: graphics/SignalE1.pdf Graphic file (type pdf)
 
 <use graphics/SignalE1.pdf>
-Package pdftex.def Info: graphics/SignalE1.pdf used on input line 527.
+Package pdftex.def Info: graphics/SignalE1.pdf used on input line 520.
 (pdftex.def)             Requested size: 166.2212pt x 92.94226pt.
 
-<graphics/SignalE2.pdf, id=357, 525.965pt x 295.1025pt>
+<graphics/SignalE2.pdf, id=353, 525.965pt x 295.1025pt>
 File: graphics/SignalE2.pdf Graphic file (type pdf)
 
 <use graphics/SignalE2.pdf>
-Package pdftex.def Info: graphics/SignalE2.pdf used on input line 530.
+Package pdftex.def Info: graphics/SignalE2.pdf used on input line 523.
 (pdftex.def)             Requested size: 166.2212pt x 93.25946pt.
- [8 <./graphics/adaptive2.pdf> <./graphics/adaptive21.pdf>] <graphics/41RRNS.pd
-f, id=406, 512.91624pt x 209.78375pt>
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [8 <./graphics/adaptive2.pdf> <./graphics/adaptive21.pdf>]
+<graphics/41RRNS.pdf, id=402, 512.91624pt x 209.78375pt>
 File: graphics/41RRNS.pdf Graphic file (type pdf)
 
 <use graphics/41RRNS.pdf>
-Package pdftex.def Info: graphics/41RRNS.pdf used on input line 544.
+Package pdftex.def Info: graphics/41RRNS.pdf used on input line 537.
 (pdftex.def)             Requested size: 252.94499pt x 103.45433pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 544--545
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 537--538
  [][] 
  []
 
-<graphics/Energybreakdown.pdf, id=408, 472.76625pt x 225.84375pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<graphics/Energybreakdown.pdf, id=404, 472.76625pt x 225.84375pt>
 File: graphics/Energybreakdown.pdf Graphic file (type pdf)
 
 <use graphics/Energybreakdown.pdf>
-Package pdftex.def Info: graphics/Energybreakdown.pdf used on input line 554.
+Package pdftex.def Info: graphics/Energybreakdown.pdf used on input line 547.
 (pdftex.def)             Requested size: 252.94499pt x 120.83727pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 554--555
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 547--548
  [][] 
  []
 
-<graphics/energy.pdf, id=414, 674.52pt x 219.82124pt>
+<graphics/energy.pdf, id=410, 674.52pt x 219.82124pt>
 File: graphics/energy.pdf Graphic file (type pdf)
 
 <use graphics/energy.pdf>
-Package pdftex.def Info: graphics/energy.pdf used on input line 575.
+Package pdftex.def Info: graphics/energy.pdf used on input line 568.
 (pdftex.def)             Requested size: 231.26378pt x 75.36546pt.
- <graphics/EDP.pdf, id=415, 674.52pt x 211.79124pt>
+ <graphics/EDP.pdf, id=411, 674.52pt x 211.79124pt>
 File: graphics/EDP.pdf Graphic file (type pdf)
 
 <use graphics/EDP.pdf>
-Package pdftex.def Info: graphics/EDP.pdf used on input line 578.
+Package pdftex.def Info: graphics/EDP.pdf used on input line 571.
 (pdftex.def)             Requested size: 231.26378pt x 72.61238pt.
  [9 <./graphics/SignalE.pdf> <./graphics/SignalE1.pdf> <./graphics/SignalE2.pdf
 > <./graphics/41RRNS.pdf> <./graphics/Energybreakdown.pdf>] <graphics/RelatedCo
-mp.pdf, id=511, 361.35pt x 214.8025pt>
+mp.pdf, id=493, 361.35pt x 214.8025pt>
 File: graphics/RelatedComp.pdf Graphic file (type pdf)
 
 <use graphics/RelatedComp.pdf>
-Package pdftex.def Info: graphics/RelatedComp.pdf used on input line 661.
+Package pdftex.def Info: graphics/RelatedComp.pdf used on input line 653.
 (pdftex.def)             Requested size: 234.88023pt x 126.47343pt.
+ [10 <./graphics/RelatedComp.pdf>]
 
+LaTeX Warning: Reference `sec:intro' on page 11 undefined on input line 667.
 
-LaTeX Warning: Reference `sec:intro' on page 10 undefined on input line 673.
-
-[10 <./graphics/RelatedComp.pdf>] (./main.bbl [11 <./graphics/energy.pdf> <./gr
-aphics/EDP.pdf>]
+(./main.bbl [11 <./graphics/energy.pdf> <./graphics/EDP.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -789,28 +794,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13])
-Underfull \vbox (badness 7238) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \hbox (6.5321pt too wide) detected at line 802
+ [14]
+Overfull \hbox (6.5321pt too wide) detected at line 796
 \OML/cmm/m/it/7 E\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 X\OT1/cmr/m/n/7 ) = (2) = [[] 
 \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 L\OT1/cmr/m/n/7 (1 \OMS/cmsy/m/n/7 ^^@ \OML
 /cmm/m/it/7 A\OT1/cmr/m/n/7 )[]] \OMS/cmsy/m/n/7 ^^C []
  []
 
 
-Overfull \hbox (1.50659pt too wide) detected at line 803
+Overfull \hbox (1.50659pt too wide) detected at line 797
 \OT1/cmr/m/n/7 = [] = [] (10)
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 808.
-[14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 808.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 802.
+[15
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 802.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 808.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 808.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 802.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 802.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C1A86D5D209DC70D3B533BC767E04EE8;1891.
+(rerunfilecheck)             Checksum: 0FDD5EDB435E1A37BBC0C8B893D66E8F;1734.
 
 
 LaTeX Warning: There were undefined references.
@@ -818,16 +825,16 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 808.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 802.
  ) 
 Here is how much of TeX's memory you used:
- 11276 strings out of 492995
- 167514 string characters out of 6132704
- 301303 words of memory out of 5000000
- 13791 multiletter control sequences out of 15000+600000
- 123366 words of font info for 629 fonts, out of 8000000 for 9000
+ 11307 strings out of 492995
+ 167793 string characters out of 6132704
+ 301295 words of memory out of 5000000
+ 13792 multiletter control sequences out of 15000+600000
+ 125737 words of font info for 651 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,49p,2865b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,49p,3041b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texl
@@ -855,10 +862,10 @@ e1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2017/texmf-dist/fonts
 /type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
 urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on main.pdf (14 pages, 710215 bytes).
+Output written on main.pdf (15 pages, 713681 bytes).
 PDF statistics:
- 794 PDF objects out of 1000 (max. 8388607)
- 671 compressed objects within 7 object streams
- 173 named destinations out of 1000 (max. 500000)
- 59668 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 797 PDF objects out of 1000 (max. 8388607)
+ 673 compressed objects within 7 object streams
+ 174 named destinations out of 1000 (max. 500000)
+ 59652 words of extra memory for PDF output out of 61914 (max. 10000000)
 
