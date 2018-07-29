@@ -488,8 +488,8 @@ Probability of at least 1 error being present in the loaded data of address $X$.
 \item[$P_{SC}$]
 Probability of at least 1 error occurring in a sub-core from the last time it was checked. To illustrate, consider the following add instruction: $ADD~R_3,R_2,R_1$. Then, at the end of instruction, $P_{SC}=1-(1-P_{add})(1-P_{R_2})(1-P_{R1})$.
 
-\item[$P_C^{1}$]
-Probability of exactly 1 error occurring in a RRNS core from the last time it was checked. This translates to exactly 1 sub-core being in error (where the sub-core error itself may be of multi-bit form; RRNS can tolerate multi-bit flips within a single residue). Therefore, $P_C=6C_1\times P_{SC}(1-P_{SC})^5$, where the combinatorial choose operator $nC_r$ enumerates the number of ways in which $r$ items can be chosen from $n$ distinct items.
+\item[$P_C^{1}$ and $P_C^{2}$]
+$P_C^{1}$ is the probability of exactly 1 error occurring in a RRNS core from the last time it was checked. This translates to exactly 1 sub-core being in error (where the sub-core error itself may be of multi-bit form; RRNS can tolerate multi-bit flips within a single residue). Therefore, $P_C^{1}=6C_1\times P_{SC}(1-P_{SC})^5$, where the combinatorial choose operator $nC_r$ enumerates the number of ways in which $r$ items can be chosen from $n$ distinct items. Similarly, $P_C^{2}=6C_2\times P_{SC}^2(1-P_{SC})^4$.
 
 \item[$P_C^{0}$]
 Probability of no error in a RRNS core from the last time it was checked. $P_C^{0}=6C_0 \times (1-P_{SC})^6 = (1-P_{SC})^6$.
